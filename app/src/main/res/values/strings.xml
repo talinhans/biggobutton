@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Biggo Button</string>
+    <string name="button_name_initial">Push Me!</string>
+    <string name="button_name_with_counter">You have pushed me </string>
+    <string name="time">time!</string>
+    <string name="times">times!</string>
+</resources>
